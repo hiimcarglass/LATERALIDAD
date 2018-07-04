@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 5c3551e801e576c4ea25381f42c88c30
+timeCreated: 1517916027
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Cactus
+  fontNames:
+  - Cactus
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

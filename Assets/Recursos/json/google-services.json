@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "717137564800",
+    "firebase_url": "https://lateralidad-ace87.firebaseio.com",
+    "project_id": "lateralidad-ace87",
+    "storage_bucket": "lateralidad-ace87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717137564800:android:39bc3e47666b448b",
+        "android_client_info": {
+          "package_name": "com.lateralitat.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717137564800-3eqmdmrnku1ilnd3li744j6avvea7o7s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOc5XfEu-Qw9ll_2ifHXRB08JgwoWwXIQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
