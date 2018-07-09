@@ -256,7 +256,7 @@ public class PlayerController : MonoBehaviour {
             if (Input.GetKeyDown(KeyCode.S)) // si ponemos espacio tendremos problemas porque unity interpreta que espacio tambien es click i vovleras a pulsar la imagen que has pulsado la ultima vez con el raton
             {
                 //Debug.Log("LAST POS: " + _lastPos);
-
+   
                 //Debug.Log("PRIXIUMA POS: " + _proximPos);
 
                 //Debug.Log(VariablesSingleton._instance.GetUnicaEleccio());
